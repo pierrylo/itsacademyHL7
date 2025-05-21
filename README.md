@@ -1,8 +1,9 @@
 # ITS Academy
 ## Descrizione
 Documentazione delle lezioni sullo standard HL7 del corso **Sistemi Informativi Clinici** del percorso formativo **Tecnico Superiore per l’informatica biomedicale 4.0**
-## Elenco documenti
-AS-PS_R-SEHL7#01-V10.29 "Integrazioni interne tra sistemi dipartimentali delle Aziende Sanitarie tramite protocollo HL7"
+## Elenco file
+* AS-PS_R-SEHL7#01-V10.29 "Integrazioni interne tra sistemi dipartimentali delle Aziende Sanitarie tramite protocollo HL7"
+* MessaggiHL7.txt "messaggi di esempio"
 
 ## Link a siti web
 [SISS homepage](https://www.siss.regione.lombardia.it/)\
