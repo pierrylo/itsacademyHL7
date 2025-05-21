@@ -11,8 +11,9 @@ AS-PS_R-SEHL7#01-V10.29 "Integrazioni interne tra sistemi dipartimentali delle A
 [Piattaforma Regionale di Integrazione](https://www.siss.regione.lombardia.it/wps/portal/site/siss/servizi-per-il-territorio/piattaforma-regionale-di-integrazione)\
 [HL7 org](https://www.hl7.org/)\
 [HL7 Italia](https://www.hl7.it/)\
-[DICOM sito internazionale](https://www.dicomstandard.org/)
-
+[DICOM sito internazionale](https://www.dicomstandard.org/)\
+[BridgeLink - an Open Source Mirth Connect Fork](https://www.innovarhealthcare.com/bridgelink)\
+[Open Integration Engine](https://openintegrationengine.org/)
 
 ## Link per il download dei software utilizzati
 [HL7 Inspector web](https://www.hl7inspector.com/)\
