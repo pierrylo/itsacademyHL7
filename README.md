@@ -19,6 +19,7 @@ AS-PS_R-SEHL7#01-V10.29 "Integrazioni interne tra sistemi dipartimentali delle A
 [HL7 Inspector web](https://www.hl7inspector.com/)\
 [HL7 Inspector classic](https://bitbucket.org/crambow/hl7inspector/wiki/Home)\
 [Mirth Connect 4.5.2](https://github.com/nextgenhealthcare/connect/releases)\
+[Mirth Connet User Guide](https://downloads.mirthcorp.com/connect-user-guide/latest/mirth-connect-user-guide.pdf)\
 [Java download](https://www.oracle.com/it/java/technologies/downloads/)\
 [MySQL download](https://www.mysql.com/downloads/)\
 [DBeaver](https://dbeaver.io/)
