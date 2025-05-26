@@ -12,6 +12,7 @@ Documentazione delle lezioni sullo standard HL7 del corso **Sistemi Informativi 
 [Piattaforma Regionale di Integrazione](https://www.siss.regione.lombardia.it/wps/portal/site/siss/servizi-per-il-territorio/piattaforma-regionale-di-integrazione)\
 [HL7 org](https://www.hl7.org/)\
 [HL7 Italia](https://www.hl7.it/)\
+[Caristix HL7 tools](https://hl7-definition.caristix.com/v2/HL7v2.5)\
 [DICOM sito internazionale](https://www.dicomstandard.org/)\
 [BridgeLink - an Open Source Mirth Connect Fork](https://www.innovarhealthcare.com/bridgelink)\
 [Open Integration Engine](https://openintegrationengine.org/)
@@ -23,7 +24,8 @@ Documentazione delle lezioni sullo standard HL7 del corso **Sistemi Informativi 
 [Mirth Connet User Guide](https://downloads.mirthcorp.com/connect-user-guide/latest/mirth-connect-user-guide.pdf)\
 [Java download](https://www.oracle.com/it/java/technologies/downloads/)\
 [MySQL download](https://www.mysql.com/downloads/)\
-[DBeaver](https://dbeaver.io/)
+[DBeaver](https://dbeaver.io/)\
+[Base64 Guru](https://base64.guru/)
 
 
 
