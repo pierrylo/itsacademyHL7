@@ -3,6 +3,7 @@
 Documentazione delle lezioni sullo standard HL7 del corso **Sistemi Informativi Clinici** del percorso formativo **Tecnico Superiore per l’informatica biomedicale 4.0**
 ## Elenco file
 * AS-PS_R-SEHL7#01-V10.29 "Integrazioni interne tra sistemi dipartimentali delle Aziende Sanitarie tramite protocollo HL7"
+* Il Modello architetturale di riferimento e le componenti del Sistema Informativo Ospedaliero
 * MessaggiHL7.txt "messaggi di esempio"
 
 ## Link a siti web
